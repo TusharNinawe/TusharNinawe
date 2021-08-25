@@ -1,0 +1,51 @@
+*{
+	margin: 0;
+	padding: 0;
+	
+}
+.navbar{
+
+border: none;
+background-color: #f2ccff;
+color: #61122F;
+}
+body{
+	background-color: #61122F;
+	color: white;
+}
+.glyphicon{
+	font-size: 30px;
+	color:#61122F; 
+}
+
+.center{
+	width: 90%;
+	background-color: #f2ccff;
+
+}
+.container
+{
+	background-color: #f2ccff;
+	color: black;
+	font-family: montserrat;
+}
+.text-center{
+	font-size: 50px;
+	font-family: montserrat;
+	color: #f2ccff
+}
+
+h2{
+	text-align: center;
+	font-family: montserrat;
+	font-weight: bold;
+}
+#myNavbar ul li a {
+	color: #61122F;
+}
+.navbar-inverse .navbar-brand {
+    color: #61122F;
+    font-size: 30px;
+    font-family: montserrat;
+    font-weight: bolder;
+}
